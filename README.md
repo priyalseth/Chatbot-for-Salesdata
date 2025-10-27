@@ -1,4 +1,4 @@
-**AI-Powered Sales Data Chatbot**
+#**AI-Powered Sales Data Chatbot**
  **Project Overview**
 
 The AI Sales Data Chatbot is an intelligent automation system built in Jupyter Notebook that allows users to query sales datasets using natural language.
